@@ -1,5 +1,15 @@
 # AndroidBookmark
 
+[面试题](#面试题) 
+[View绘制](#View绘制) 
+[Handler](#Handler) 
+[事件分发](#事件分发) 
+[Binder](#Binder) 
+[Framework解析](#Framework解析) 
+[JNI系列](#JNI系列) 
+[源码解析](#源码解析) 
+[代码审查](#代码审查) 
+
 ## 面试题
 
 [Android校招面试指南](https://lrh1993.gitbooks.io/android_interview_guide/)
@@ -40,6 +50,27 @@
 [Binder从C到JAVA层](https://www.yuque.com/elune/blog/eetsuc)
 
 [Binder系列—开篇](http://gityuan.com/2015/10/31/binder-prepare/)
+
+## Framework解析
+
+### 进程启动流程
+
+[zygote启动流程](https://www.yuque.com/elune/blog/bl135i)
+
+[SystemServer启动流程](https://www.yuque.com/elune/blog/vexh0z)
+
+[AMS启动流程](https://www.yuque.com/elune/blog/qu8hg3)
+
+### AMS,WMS,PMS...
+
+## JNI系列
+
+[Android JNI原理分析](http://gityuan.com/2016/05/28/android-jni/)
+
+## 源码解析
+
+[OKHttp源码解析](https://www.jianshu.com/p/27c1554b7fee)
+[Retrofit是如何工作的？](https://www.jianshu.com/p/cb3a7413b448)
 
 ## 代码审查
 
