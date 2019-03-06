@@ -1,5 +1,7 @@
 # AndroidBookmark
 
+## 目录
+
 [面试题](#面试题) 
 
 [View绘制](#View绘制) 
@@ -13,6 +15,8 @@
 [Framework解析](#Framework解析) 
 
 [JNI系列](#JNI系列) 
+
+[Gradle系列](#Gradle系列)
 
 [源码解析](#源码解析) 
 
@@ -67,11 +71,11 @@
 
 ### 进程启动流程
 
-[zygote启动流程](https://www.yuque.com/elune/blog/bl135i),[Android系统启动-zygote篇](http://gityuan.com/2016/02/13/android-zygote/)
+[zygote启动流程](https://www.yuque.com/elune/blog/bl135i) , [Android系统启动-zygote篇](http://gityuan.com/2016/02/13/android-zygote/)
 
-[SystemServer启动流程](https://www.yuque.com/elune/blog/vexh0z),[Android系统启动-SystemServer上篇](http://gityuan.com/2016/02/14/android-system-server/),[Android系统启动-SystemServer下篇](http://gityuan.com/2016/02/20/android-system-server-2/)
+[SystemServer启动流程](https://www.yuque.com/elune/blog/vexh0z) , [Android系统启动-SystemServer上篇](http://gityuan.com/2016/02/14/android-system-server/) , [Android系统启动-SystemServer下篇](http://gityuan.com/2016/02/20/android-system-server-2/)
 
-[理解Android进程创建流程](http://gityuan.com/2016/03/26/app-process-create/),[Android应用进程启动流程](https://www.yuque.com/elune/blog/gs02pr)
+[理解Android进程创建流程](http://gityuan.com/2016/03/26/app-process-create/) , [Android应用进程启动流程](https://www.yuque.com/elune/blog/gs02pr)
 
 [AMS启动流程](https://www.yuque.com/elune/blog/qu8hg3)
 
@@ -87,14 +91,54 @@
 
 [Launcher启动-AMS过程](https://www.yuque.com/elune/blog/bq1hmr)
 
+[WindowManagerService全面解析](http://liuwangshu.cn/tags/WindowManagerService/)
+
 ## JNI系列
 
 [Android JNI原理分析](http://gityuan.com/2016/05/28/android-jni/)
 
+[Android深入理解JNI](http://liuwangshu.cn/tags/Android%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3JNI/)
+
+## Gradle系列
+
+[Gradle核心思想](http://liuwangshu.cn/tags/Gradle%E6%A0%B8%E5%BF%83%E6%80%9D%E6%83%B3/)
+
+[Gradle从入门到实战 - Groovy基础](https://blog.csdn.net/singwhatiwanna/article/details/76084580)
+
+[全面理解Gradle - 执行时序](https://blog.csdn.net/singwhatiwanna/article/details/78797506)
+
+[全面理解Gradle - 定义Task](https://blog.csdn.net/singwhatiwanna/article/details/78898113)
+
+[拥抱 Android Studio 之五：Gradle 插件开发](http://blog.bugtags.com/2016/03/28/embrace-android-studio-gradle-plugin/)
+
+[Gradle插件开发指南](https://www.jianshu.com/p/3191c3955194)
+
 ## 源码解析
+
+### Retrofit
 
 [OKHttp源码解析](https://www.jianshu.com/p/27c1554b7fee)
 [Retrofit是如何工作的？](https://www.jianshu.com/p/cb3a7413b448)
+
+### Glide
+
+[Android图片加载框架最全解析（一），Glide的基本用法](https://blog.csdn.net/guolin_blog/article/details/53759439)
+
+[Android图片加载框架最全解析（二），从源码的角度理解Glide的执行流程](https://blog.csdn.net/guolin_blog/article/details/53939176)
+
+[Android图片加载框架最全解析（三），深入探究Glide的缓存机制](https://blog.csdn.net/guolin_blog/article/details/54895665)
+
+[Android图片加载框架最全解析（四），玩转Glide的回调与监听](https://blog.csdn.net/guolin_blog/article/details/70215985)
+
+[Android图片加载框架最全解析（五），Glide强大的图片变换功能](https://blog.csdn.net/guolin_blog/article/details/71524668#t4)
+
+### EventBus
+
+### 组件化
+
+[Android 组件化最佳实践](https://juejin.im/post/5b5f17976fb9a04fa775658d)
+
+### 插件化
 
 ## 代码审查
 
