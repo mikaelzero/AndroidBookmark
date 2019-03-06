@@ -1,13 +1,21 @@
 # AndroidBookmark
 
 [面试题](#面试题) 
+
 [View绘制](#View绘制) 
+
 [Handler](#Handler) 
+
 [事件分发](#事件分发) 
+
 [Binder](#Binder) 
+
 [Framework解析](#Framework解析) 
+
 [JNI系列](#JNI系列) 
+
 [源码解析](#源码解析) 
+
 [代码审查](#代码审查) 
 
 ## 面试题
@@ -37,6 +45,10 @@
 
 [Handler-系列问题](https://www.yuque.com/elune/srueda/oqnhqy)
 
+[Android消息机制1-Handler(Java层)](http://gityuan.com/2015/12/26/handler-message-framework/)
+
+[Android消息机制2-Handler(Native层)](http://gityuan.com/2015/12/27/handler-message-native/)
+
 ## 事件分发
 
 [Android ViewGroup事件分发机制](https://blog.csdn.net/lmj623565791/article/details/39102591)
@@ -55,13 +67,25 @@
 
 ### 进程启动流程
 
-[zygote启动流程](https://www.yuque.com/elune/blog/bl135i)
+[zygote启动流程](https://www.yuque.com/elune/blog/bl135i),[Android系统启动-zygote篇](http://gityuan.com/2016/02/13/android-zygote/)
 
-[SystemServer启动流程](https://www.yuque.com/elune/blog/vexh0z)
+[SystemServer启动流程](https://www.yuque.com/elune/blog/vexh0z),[Android系统启动-SystemServer上篇](http://gityuan.com/2016/02/14/android-system-server/),[Android系统启动-SystemServer下篇](http://gityuan.com/2016/02/20/android-system-server-2/)
+
+[理解Android进程创建流程](http://gityuan.com/2016/03/26/app-process-create/),[Android应用进程启动流程](https://www.yuque.com/elune/blog/gs02pr)
 
 [AMS启动流程](https://www.yuque.com/elune/blog/qu8hg3)
 
+[Android系统启动概述](https://www.yuque.com/elune/blog/gi9lz9)
+
+[Launcher启动流程](https://www.yuque.com/elune/blog/ksykh3)
+
 ### AMS,WMS,PMS...
+
+[AMS相关重要概念](https://www.yuque.com/elune/blog/gdkuy1)
+
+[ActivityThread.main循环过程](https://www.yuque.com/elune/blog/ruy4sa)
+
+[Launcher启动-AMS过程](https://www.yuque.com/elune/blog/bq1hmr)
 
 ## JNI系列
 
