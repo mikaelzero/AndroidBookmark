@@ -121,6 +121,8 @@
 
 ### EventBus
 
+[EventBus 原理解析](https://juejin.im/post/5ae2e6dcf265da0b9d77f28e#heading-5)
+
 ### 组件化
 
 [Android 组件化最佳实践](https://juejin.im/post/5b5f17976fb9a04fa775658d)
