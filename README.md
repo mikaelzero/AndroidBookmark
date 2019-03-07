@@ -20,6 +20,8 @@
 
 [源码解析](#源码解析) 
 
+[IM](#IM)
+
 [代码审查](#代码审查) 
 
 ## 面试题
@@ -139,6 +141,18 @@
 [Android 组件化最佳实践](https://juejin.im/post/5b5f17976fb9a04fa775658d)
 
 ### 插件化
+
+
+## IM
+
+[Android网络编程之--Socket编程](https://www.jianshu.com/p/fb4dfab4eec1)
+
+[微信Mars策略分析](https://blog.dreamtobe.cn/mars/)
+
+[微信心跳机制](https://blog.dreamtobe.cn/2016/08/16/android_weak_network/)
+
+[Android微信智能心跳方案](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207243549&idx=1&sn=4ebe4beb8123f1b5ab58810ac8bc5994)
+
 
 ## 代码审查
 
