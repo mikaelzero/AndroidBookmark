@@ -2,9 +2,7 @@
 
 ## 目录
 
-[面试题](#面试题) 
-[View绘制](#View绘制) 
-[Handler](#Handler) 
+[面试题](#面试题) <br/>[View绘制](#View绘制) <br/>[Handler](#Handler) 
 [事件分发](#事件分发) 
 [Binder](#Binder) 
 [Framework解析](#Framework解析) 
