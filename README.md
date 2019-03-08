@@ -130,6 +130,11 @@
 
 ## 源码解析
 
+### EventBus
+
+- [EventBus 原理解析](https://juejin.im/post/5ae2e6dcf265da0b9d77f28e#heading-5)
+- [EventBus 3.0进阶：源码及其设计模式 完全解析](https://www.jianshu.com/p/bda4ed3017ba)
+
 ### Retrofit
 
 - [OKHttp 源码解析](https://www.jianshu.com/p/27c1554b7fee)
@@ -144,10 +149,7 @@
 - [Android 图片加载框架最全解析（四），玩转 Glide 的回调与监听](https://blog.csdn.net/guolin_blog/article/details/70215985)
 - [Android 图片加载框架最全解析（五），Glide 强大的图片变换功能](https://blog.csdn.net/guolin_blog/article/details/71524668#t4)
 
-### EventBus
 
-- [EventBus 原理解析](https://juejin.im/post/5ae2e6dcf265da0b9d77f28e#heading-5)
-- [EventBus 3.0进阶：源码及其设计模式 完全解析](https://www.jianshu.com/p/bda4ed3017ba)
 
 ## 组件化
 
