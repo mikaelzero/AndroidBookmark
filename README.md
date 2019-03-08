@@ -13,9 +13,11 @@
 <br/>[JNI 系列](#JNI系列)
 <br/>[Gradle 系列](#Gradle系列)
 <br/>[源码解析](#源码解析)
+<br/>[性能优化](#性能优化)
 <br/>[网络编程](#网络编程)
 <br/>[代码审查](#代码审查)
 <br/>[PDF 书籍分享](#PDF书籍分享)
+<br/>[工具推荐](#工具推荐)
 <br/>[养生](#养生)
 <br/>[找工作黑名单](#找工作黑名单)
 <br/>[带着心灵去旅行](#带着心灵去旅行)
@@ -28,11 +30,18 @@
 - [Java / Android 笔试、面试 知识整理](https://github.com/hadyang/interview)
 - [Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview)
 - [Android 相关的面试题及常见套路](https://github.com/android-exchange/Android-Interview)
+- [一个五年Android开发者百度、阿里、聚美、映客的面试心经](http://gdky005.com/2016/07/08/%E4%B8%80%E4%B8%AA%E4%BA%94%E5%B9%B4Android%E5%BC%80%E5%8F%91%E8%80%85%E7%99%BE%E5%BA%A6%E3%80%81%E9%98%BF%E9%87%8C%E3%80%81%E8%81%9A%E7%BE%8E%E3%80%81%E6%98%A0%E5%AE%A2%E7%9A%84%E9%9D%A2%E8%AF%95%E5%BF%83%E7%BB%8F/)
 
 ## JAVA
 
+- [java对象结构](https://blog.csdn.net/zqz_zqz/article/details/70246212)
 - [Java虚拟机](http://liuwangshu.cn/tags/Java%E8%99%9A%E6%8B%9F%E6%9C%BA/)
 - [JAVA多线程](http://liuwangshu.cn/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/)
+- [全面理解Java内存模型](https://blog.csdn.net/suifeng3051/article/details/52611310)
+- [java 中的锁 -- 偏向锁、轻量级锁、自旋锁、重量级锁](https://blog.csdn.net/zqz_zqz/article/details/70233767/)
+- [JAVA多线程之Synchronized关键字--对象锁的特点](https://www.cnblogs.com/hapjin/p/5452663.html)
+- [Java并发编程：volatile关键字解析](https://www.cnblogs.com/dolphin0520/p/3920373.html)
+- [java并发编程：线程安全管理类--原子操作类--AtomicBoolean](https://www.cnblogs.com/tonylovett/p/5254630.html)
 
 
 ## View体系
@@ -129,6 +138,7 @@
 ### EventBus
 
 - [EventBus 原理解析](https://juejin.im/post/5ae2e6dcf265da0b9d77f28e#heading-5)
+- [EventBus 3.0进阶：源码及其设计模式 完全解析](https://www.jianshu.com/p/bda4ed3017ba)
 
 ### 组件化
 
@@ -144,6 +154,15 @@
 
 - [Android热修复原理（一）热修复框架对比和代码修复](http://liuwangshu.cn/application/hotfix/1-code-repair.html)
 
+
+
+## 性能优化
+
+- [Android UI卡顿监测框架BlockCanary原理分析](https://www.jianshu.com/p/e58992439793)
+- [Android 内存优化总结&实践]([https://blog.csdn.net/lsyz0021/article/details/51356670](https://mp.weixin.qq.com/s/2MsEAR9pQfMr1Sfs7cPdWQ))
+- [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)
+- [Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
+
 ## 网络编程
 
 - [Android网络编程（一）HTTP协议原理](http://liuwangshu.cn/application/network/1-http.html)
@@ -151,6 +170,7 @@
 - [微信 Mars 策略分析](https://blog.dreamtobe.cn/mars/)
 - [微信心跳机制](https://blog.dreamtobe.cn/2016/08/16/android_weak_network/)
 - [Android 微信智能心跳方案](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207243549&idx=1&sn=4ebe4beb8123f1b5ab58810ac8bc5994)
+- [TCP可靠性的保证机制总结](https://blog.csdn.net/xuzhangze/article/details/80490362)
 
 ## 代码审查
 
@@ -174,6 +194,16 @@
 ## 找工作黑名单
 
 [程序员找工作黑名单，换工作和当技术合伙人需谨慎啊](https://github.com/shengxinjing/programmer-job-blacklist)
+
+
+## 工具推荐
+
+- [Tinypng-图片批量压缩](https://tinypng.com/)
+- [Json格式化工具](https://jsoncompare.com/#!/simple/)
+- [markdown数学公式编辑器](https://www.codecogs.com/latex/eqneditor.php)
+- [APK在线反编译](http://www.decompileandroid.com/)
+- [Android-OS在线源码](https://www.androidos.net.cn/)
+- [Android源码查找](http://androidxref.com/7.0.0_r1/)
 
 
 ## 养生
