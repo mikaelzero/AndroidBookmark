@@ -4,7 +4,7 @@
 
 [面试题](#面试题)
 <br/>[JAVA](#JAVA)
-<br/>[View 绘制](#View绘制)
+<br/>[View体系](#View体系)
 <br/>[Handler](#Handler)
 <br/>[事件分发](#事件分发)
 <br/>[Binder](#Binder)
@@ -13,7 +13,7 @@
 <br/>[JNI 系列](#JNI系列)
 <br/>[Gradle 系列](#Gradle系列)
 <br/>[源码解析](#源码解析)
-<br/>[IM](#IM)
+<br/>[网络编程](#网络编程)
 <br/>[代码审查](#代码审查)
 <br/>[PDF 书籍分享](#PDF书籍分享)
 <br/>[养生](#养生)
@@ -35,7 +35,7 @@
 - [JAVA多线程](http://liuwangshu.cn/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/)
 
 
-## View 绘制
+## View体系
 
 - [图解 View 测量、布局及绘制原理](https://www.jianshu.com/p/3d2c49315d68)
 - [屏幕上内容究竟是怎样画出来的 —— Android View 工作原理详解](https://juejin.im/post/5c67c1e16fb9a04a05403549)
@@ -116,6 +116,7 @@
 
 - [OKHttp 源码解析](https://www.jianshu.com/p/27c1554b7fee)
 - [Retrofit 是如何工作的？](https://www.jianshu.com/p/cb3a7413b448)
+- [Android网络编程（十一）源码解析Retrofit](http://liuwangshu.cn/application/network/11-retrofit2-sourcecode.html)
 
 ### Glide
 
@@ -135,8 +136,17 @@
 
 ### 插件化
 
-## IM
+- [APK动态加载框架（DL）解析](https://blog.csdn.net/singwhatiwanna/article/details/39937639)
+- [Android apk动态加载机制的研究](https://blog.csdn.net/singwhatiwanna/article/details/22597587)
+- [Android插件化原理（一）Activity插件化](http://liuwangshu.cn/application/plug-in/1.activity.html)
 
+### 热修复
+
+- [Android热修复原理（一）热修复框架对比和代码修复](http://liuwangshu.cn/application/hotfix/1-code-repair.html)
+
+## 网络编程
+
+- [Android网络编程（一）HTTP协议原理](http://liuwangshu.cn/application/network/1-http.html)
 - [Android 网络编程之--Socket 编程](https://www.jianshu.com/p/fb4dfab4eec1)
 - [微信 Mars 策略分析](https://blog.dreamtobe.cn/mars/)
 - [微信心跳机制](https://blog.dreamtobe.cn/2016/08/16/android_weak_network/)
