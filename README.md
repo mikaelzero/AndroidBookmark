@@ -77,6 +77,8 @@
 
 ## Framework 解析
 
+关于Framework部分,非常建议在学习完毕之后去研究  [DroidPlugin](https://github.com/Qihoo360/DroidPlugin) 的实现原理,因为他hook了非常多Framework层的代码,对于掌握整个Android FrameWork层大有裨益,同时也推荐博文 [Android插件化原理解析](http://weishu.me/2016/01/28/understand-plugin-framework-overview/),在后面的插件化也会提到这篇文章
+
 ### 进程启动流程
 
 - [init 进程启动过程](https://www.yuque.com/elune/blog/gmgxq1)
