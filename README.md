@@ -3,6 +3,7 @@
 ## 目录
 
 [面试题](#面试题)
+<br/>[JAVA](#JAVA)
 <br/>[View 绘制](#View绘制)
 <br/>[Handler](#Handler)
 <br/>[事件分发](#事件分发)
@@ -15,6 +16,9 @@
 <br/>[IM](#IM)
 <br/>[代码审查](#代码审查)
 <br/>[PDF 书籍分享](#PDF书籍分享)
+<br/>[养生](#养生)
+<br/>[找工作黑名单](#找工作黑名单)
+<br/>[带着心灵去旅行](#带着心灵去旅行)
 
 ## 面试题
 
@@ -24,6 +28,12 @@
 - [Java / Android 笔试、面试 知识整理](https://github.com/hadyang/interview)
 - [Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview)
 - [Android 相关的面试题及常见套路](https://github.com/android-exchange/Android-Interview)
+
+## JAVA
+
+- [Java虚拟机](http://liuwangshu.cn/tags/Java%E8%99%9A%E6%8B%9F%E6%9C%BA/)
+- [JAVA多线程](http://liuwangshu.cn/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/)
+
 
 ## View 绘制
 
@@ -149,3 +159,17 @@
 - [算法第四版.pdf](https://share.weiyun.com/5ZJkK2E)
 - [程序是怎样跑起来的.pdf](https://share.weiyun.com/5G80Xke)
 - [C Primer Plus 第六版 [带书签].pdf](https://share.weiyun.com/5K1gdv1)
+
+
+## 找工作黑名单
+
+[程序员找工作黑名单，换工作和当技术合伙人需谨慎啊](https://github.com/shengxinjing/programmer-job-blacklist)
+
+
+## 养生
+
+- [程序员夏季养生](https://juejin.im/entry/5b356dc9f265da599c561cba)
+- [日常生活中如何养护我们的肾？](https://zhuanlan.zhihu.com/p/36996845)
+
+
+## 带着心灵去旅行
