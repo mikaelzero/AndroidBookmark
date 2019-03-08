@@ -2,6 +2,9 @@
 
 ![](https://github.com/moyokoo/Media/blob/master/learning.png?raw=true)
 
+> 大部分博客笔者在学习过程中收藏于书签中,最近发现书签的内容越来越多,因此编写此文档作为记录,部分是笔者自己的文章,如果写的不好还请指正.
+> 
+> 你可以从头按照顺序开始慢慢进行Android系统知识点的攻略学习,相信你会有收获,祝你好运
 
 ## 目录
 
@@ -16,6 +19,8 @@
 <br/>[JNI 系列](#JNI系列)
 <br/>[Gradle 系列](#Gradle系列)
 <br/>[源码解析](#源码解析)
+<br/>[组件化](#组件化)
+<br/>[插件化](#插件化)
 <br/>[性能优化](#性能优化)
 <br/>[网络编程](#网络编程)
 <br/>[代码审查](#代码审查)
@@ -84,7 +89,6 @@
 - [Launcher 启动流程](https://www.yuque.com/elune/blog/ksykh3)
 - [Launcher 启动-AMS 过程](https://www.yuque.com/elune/blog/bq1hmr)
 - [Android 应用进程启动流程](https://www.yuque.com/elune/blog/gs02pr)
-- [ActivityThread.main 循环过程](https://www.yuque.com/elune/blog/ruy4sa)
 
 ### 四大组件
 
@@ -143,12 +147,13 @@
 - [EventBus 原理解析](https://juejin.im/post/5ae2e6dcf265da0b9d77f28e#heading-5)
 - [EventBus 3.0进阶：源码及其设计模式 完全解析](https://www.jianshu.com/p/bda4ed3017ba)
 
-### 组件化
+## 组件化
 
 - [Android 组件化最佳实践](https://juejin.im/post/5b5f17976fb9a04fa775658d)
 
-### 插件化
+## 插件化
 
+- [一系列的插件化知识点攻略(推荐)](https://github.com/tiann/understand-plugin-framework)
 - [APK动态加载框架（DL）解析](https://blog.csdn.net/singwhatiwanna/article/details/39937639)
 - [Android apk动态加载机制的研究](https://blog.csdn.net/singwhatiwanna/article/details/22597587)
 - [Android插件化原理（一）Activity插件化](http://liuwangshu.cn/application/plug-in/1.activity.html)
@@ -162,7 +167,7 @@
 ## 性能优化
 
 - [Android UI卡顿监测框架BlockCanary原理分析](https://www.jianshu.com/p/e58992439793)
-- [Android 内存优化总结&实践]([https://blog.csdn.net/lsyz0021/article/details/51356670](https://mp.weixin.qq.com/s/2MsEAR9pQfMr1Sfs7cPdWQ))
+- [Android 内存优化总结&实践](https://mp.weixin.qq.com/s/2MsEAR9pQfMr1Sfs7cPdWQ)
 - [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)
 - [Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
 
