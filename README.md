@@ -14,17 +14,17 @@
 <br/>[Handler](#Handler)
 <br/>[事件分发](#事件分发)
 <br/>[Binder](#Binder)
-<br/>[Framework 解析](#Framework解析)
-<br/>[Android 输入系统](#Android输入系统)
-<br/>[JNI 系列](#JNI系列)
-<br/>[Gradle 系列](#Gradle系列)
+<br/>[Framework解析](#Framework解析)
+<br/>[Android输入系统](#Android输入系统)
+<br/>[JNI系列](#JNI系列)
+<br/>[Gradle系列](#Gradle系列)
 <br/>[源码解析](#源码解析)
 <br/>[组件化](#组件化)
 <br/>[插件化](#插件化)
 <br/>[性能优化](#性能优化)
 <br/>[网络编程](#网络编程)
 <br/>[代码审查](#代码审查)
-<br/>[PDF 书籍分享](#PDF书籍分享)
+<br/>[PDF书籍分享](#PDF书籍分享)
 <br/>[工具推荐](#工具推荐)
 <br/>[养生](#养生)
 <br/>[找工作黑名单](#找工作黑名单)
@@ -75,7 +75,7 @@
 - [Binder 从 C 到 JAVA 层](https://www.yuque.com/elune/blog/eetsuc)
 - [Binder 系列—开篇](http://gityuan.com/2015/10/31/binder-prepare/)
 
-## Framework 解析
+## Framework解析
 
 关于Framework部分,非常建议在学习完毕之后去研究  [DroidPlugin](https://github.com/Qihoo360/DroidPlugin) 的实现原理,因为他hook了非常多Framework层的代码,对于掌握整个Android FrameWork层大有裨益,同时也推荐博文 [Android插件化原理解析](http://weishu.me/2016/01/28/understand-plugin-framework-overview/),在后面的插件化也会提到这篇文章
 
@@ -110,16 +110,16 @@
 - [Android 解析 WindowManagerService（一）WMS 的诞生](http://liuwangshu.cn/framework/wms/1-wms-produce.html)
 - [Android包管理机制](http://liuwangshu.cn/tags/Android%E5%8C%85%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6/)
 
-## Android 输入系统
+## Android输入系统
 
 - [Android 输入系统](http://liuwangshu.cn/tags/Android%E8%BE%93%E5%85%A5%E7%B3%BB%E7%BB%9F/)
 
-## JNI 系列
+## JNI系列
 
 - [Android JNI 原理分析](http://gityuan.com/2016/05/28/android-jni/)
 - [Android 深入理解 JNI](http://liuwangshu.cn/tags/Android%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3JNI/)
 
-## Gradle 系列
+## Gradle系列
 
 - [Gradle 核心思想](http://liuwangshu.cn/tags/Gradle%E6%A0%B8%E5%BF%83%E6%80%9D%E6%83%B3/)
 - [Gradle 从入门到实战 - Groovy 基础](https://blog.csdn.net/singwhatiwanna/article/details/76084580)
