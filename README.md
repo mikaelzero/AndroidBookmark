@@ -3,8 +3,6 @@
 ![](https://github.com/moyokoo/Media/blob/master/learning.png?raw=true)
 
 > 大部分博客笔者在学习过程中收藏于书签中,最近发现书签的内容越来越多,因此编写此文档作为记录,部分是笔者自己的文章,如果写的不好还请指正.
-> 
-> 你可以从头按照顺序开始慢慢进行Android系统知识点的攻略学习,相信你会有收获,祝你好运
 
 ## 目录
 
@@ -188,7 +186,7 @@
 
 - [总结 Android 开发中必备的代码 Review 清单](https://mp.weixin.qq.com/s/0U733-oOv6HTW-tmhWi4Vw?)
 
-## PDF 书籍分享
+## PDF书籍分享
 
 - [Android 内核剖析.pdf](https://share.weiyun.com/54xheD8)
 - [Android 系统源代码情景分析.pdf](https://share.weiyun.com/53ARvHQ)
