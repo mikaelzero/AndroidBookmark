@@ -39,7 +39,6 @@
 ## JAVA
 
 - [java对象结构](https://blog.csdn.net/zqz_zqz/article/details/70246212)
-- [Java 反射由浅入深 | 进阶必备](https://juejin.im/post/598ea9116fb9a03c335a99a4)
 - [Java虚拟机](http://liuwangshu.cn/tags/Java%E8%99%9A%E6%8B%9F%E6%9C%BA/)
 - [JAVA多线程](http://liuwangshu.cn/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/)
 - [全面理解Java内存模型](https://blog.csdn.net/suifeng3051/article/details/52611310)
@@ -150,9 +149,19 @@
 
 ## 组件化
 
+- [Android组件化开发实践和案例分享](https://juejin.im/post/5c46e6fb6fb9a049a5713bcc)
 - [Android 组件化最佳实践](https://juejin.im/post/5b5f17976fb9a04fa775658d)
+- [回归初心：极简 Android 组件化方案 — AppJoint](https://juejin.im/post/5bb9c0d55188255c7566e1e2)
 
 ## 插件化
+
+学习插件化预备工作:
+
+- [Java 反射由浅入深 | 进阶必备](https://juejin.im/post/598ea9116fb9a03c335a99a4)
+- [Java Proxy 和 CGLIB 动态代理原理](http://www.importnew.com/27772.html)
+
+
+学习阶段:
 
 - [一系列的插件化知识点攻略(推荐)](https://github.com/tiann/understand-plugin-framework)
 - [APK动态加载框架（DL）解析](https://blog.csdn.net/singwhatiwanna/article/details/39937639)
