@@ -26,8 +26,6 @@
 <br/>[工具推荐](#工具推荐)
 <br/>[养生](#养生)
 <br/>[找工作黑名单](#找工作黑名单)
-<br/>[带着心灵去旅行](#带着心灵去旅行)
-
 ## 面试题
 
 - [Android 校招面试指南](https://lrh1993.gitbooks.io/android_interview_guide/)
@@ -41,6 +39,7 @@
 ## JAVA
 
 - [java对象结构](https://blog.csdn.net/zqz_zqz/article/details/70246212)
+- [Java 反射由浅入深 | 进阶必备](https://juejin.im/post/598ea9116fb9a03c335a99a4)
 - [Java虚拟机](http://liuwangshu.cn/tags/Java%E8%99%9A%E6%8B%9F%E6%9C%BA/)
 - [JAVA多线程](http://liuwangshu.cn/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/)
 - [全面理解Java内存模型](https://blog.csdn.net/suifeng3051/article/details/52611310)
@@ -208,6 +207,7 @@
 
 ## 工具推荐
 
+- [可视化数据结构和算法学习](https://algorithm-visualizer.org/sorting/comb-sort)
 - [Tinypng-图片批量压缩](https://tinypng.com/)
 - [Json格式化工具](https://jsoncompare.com/#!/simple/)
 - [markdown数学公式编辑器](https://www.codecogs.com/latex/eqneditor.php)
@@ -222,6 +222,3 @@
 - [日常生活中如何养护我们的肾？](https://zhuanlan.zhihu.com/p/36996845)
 
 
-## 带着心灵去旅行
-
-- [旅行个屁](https://github.com/moyokoo/AndroidBookmark)
