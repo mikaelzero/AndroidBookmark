@@ -17,10 +17,14 @@
 <br/>[JNI系列](#JNI系列)
 <br/>[Gradle系列](#Gradle系列)
 <br/>[源码解析](#源码解析)
+    - [EventBus](#EventBus)
+    - [Retrofit](#Retrofit)
+    - [Glide](#Glide)
 <br/>[组件化](#组件化)
 <br/>[插件化](#插件化)
 <br/>[性能优化](#性能优化)
 <br/>[网络编程](#网络编程)
+    - [微信Mars通信方案](#微信Mars通信方案)
 <br/>[代码审查](#代码审查)
 <br/>[PDF书籍分享](#PDF书籍分享)
 <br/>[工具推荐](#工具推荐)
@@ -181,6 +185,11 @@
 - [TCP/IP协议栈与数据包封装](http://docs.linuxtone.org/ebooks/C&CPP/c/ch36s01.html)
 - [Android网络编程（一）HTTP协议原理](http://liuwangshu.cn/application/network/1-http.html)
 - [Android 网络编程之--Socket 编程](https://www.jianshu.com/p/fb4dfab4eec1)
+
+
+### 微信Mars通信方案
+
+- [Protobuf学习](https://www.jianshu.com/p/2265f56805fa)
 - [微信 Mars 策略分析](https://blog.dreamtobe.cn/mars/)
 - [微信心跳机制](https://blog.dreamtobe.cn/2016/08/16/android_weak_network/)
 - [Android 微信智能心跳方案](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207243549&idx=1&sn=4ebe4beb8123f1b5ab58810ac8bc5994)
