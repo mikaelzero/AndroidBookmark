@@ -6,9 +6,9 @@
 
 ## 目录
 
-[面试题](#面试题)
-<br/>[JAVA](#JAVA)
-<br/>[View体系](#View体系)
+- [面试题](#面试题)
+- [JAVA](#JAVA)
+- [View体系](#View体系)
 <br/>[Handler](#Handler)
 <br/>[事件分发](#事件分发)
 <br/>[Binder](#Binder)
@@ -16,11 +16,10 @@
 <br/>[Android输入系统](#Android输入系统)
 <br/>[JNI系列](#JNI系列)
 <br/>[Gradle系列](#Gradle系列)
-<br/>[源码解析](#源码解析)
-- [EventBus](#EventBus)
-- [Retrofit](#Retrofit)
-- [Glide](#Glide)
-
+- [源码解析](#源码解析)
+  - [EventBus](#EventBus)
+  - [Retrofit](#Retrofit)
+  - [Glide](#Glide)
 
 <br/>[组件化](#组件化)
 <br/>[插件化](#插件化)
