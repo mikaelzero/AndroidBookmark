@@ -9,28 +9,29 @@
 - [面试题](#面试题)
 - [JAVA](#JAVA)
 - [View体系](#View体系)
-<br/>[Handler](#Handler)
-<br/>[事件分发](#事件分发)
-<br/>[Binder](#Binder)
-<br/>[Framework解析](#Framework解析)
-<br/>[Android输入系统](#Android输入系统)
-<br/>[JNI系列](#JNI系列)
-<br/>[Gradle系列](#Gradle系列)
+- [Handler](#Handler)
+- [事件分发](#事件分发)
+- [Binder](#Binder)
+- [Framework解析](#Framework解析)
+- [Android输入系统](#Android输入系统)
+- [JNI系列](#JNI系列)
+- [Gradle系列](#Gradle系列)
 - [源码解析](#源码解析)
   - [EventBus](#EventBus)
   - [Retrofit](#Retrofit)
   - [Glide](#Glide)
-
-<br/>[组件化](#组件化)
-<br/>[插件化](#插件化)
-<br/>[性能优化](#性能优化)
-<br/>[网络编程](#网络编程)
+- [组件化](#组件化)
+- [插件化](#插件化)
+- [性能优化](#性能优化)
+- [网络编程](#网络编程)
     - [微信Mars通信方案](#微信Mars通信方案)
-<br/>[代码审查](#代码审查)
-<br/>[PDF书籍分享](#PDF书籍分享)
-<br/>[工具推荐](#工具推荐)
-<br/>[养生](#养生)
-<br/>[找工作黑名单](#找工作黑名单)
+- [代码审查](#代码审查)
+- [PDF书籍分享](#PDF书籍分享)
+- [工具推荐](#工具推荐)
+- [养生](#养生)
+- [找工作黑名单](#找工作黑名单)
+
+
 ## 面试题
 
 - [Android 校招面试指南](https://lrh1993.gitbooks.io/android_interview_guide/)
@@ -143,7 +144,7 @@
 
 ### Glide
 
-- [郭霖一系列的Glide源码分析,照着看就是了](https://blog.csdn.net/guolin_blog/article/details/53759439)
+- [郭霖一系列的Glide源码分析,照着看就完事了](https://blog.csdn.net/guolin_blog/article/details/53759439)
 
 
 
@@ -155,13 +156,14 @@
 
 ## 插件化
 
-学习插件化预备工作:
+
+**学习插件化预备工作:**
 
 - [Java 反射由浅入深 | 进阶必备](https://juejin.im/post/598ea9116fb9a03c335a99a4)
 - [Java Proxy 和 CGLIB 动态代理原理](http://www.importnew.com/27772.html)
 
 
-学习阶段:
+**学习阶段:**
 
 - [一系列的插件化知识点攻略(推荐)](https://github.com/tiann/understand-plugin-framework)
 - [APK动态加载框架（DL）解析](https://blog.csdn.net/singwhatiwanna/article/details/39937639)
@@ -176,10 +178,22 @@
 
 ## 性能优化
 
+- [Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
+
+### UI优化
+
 - [Android UI卡顿监测框架BlockCanary原理分析](https://www.jianshu.com/p/e58992439793)
+
+### 内存优化
+
 - [Android 内存优化总结&实践](https://mp.weixin.qq.com/s/2MsEAR9pQfMr1Sfs7cPdWQ)
 - [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)
-- [Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
+
+### 网络优化
+
+### 电量优化
+
+
 
 ## 网络编程
 
