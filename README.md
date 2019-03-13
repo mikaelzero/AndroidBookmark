@@ -78,8 +78,7 @@
 ### 进程启动流程
 
 - [init 进程启动过程](https://www.yuque.com/elune/blog/gmgxq1)
-- [zygote 启动流程](https://www.yuque.com/elune/blog/bl135i) ,
-- [Android 系统启动-zygote 篇](http://gityuan.com/2016/02/13/android-zygote/)
+- [zygote 启动流程](https://www.yuque.com/elune/blog/bl135i) , [Android 系统启动-zygote 篇](http://gityuan.com/2016/02/13/android-zygote/)
 - [SystemServer 启动流程](https://www.yuque.com/elune/blog/vexh0z) , [Android 系统启动-SystemServer 上篇](http://gityuan.com/2016/02/14/android-system-server/) , [Android 系统启动-SystemServer 下篇](http://gityuan.com/2016/02/20/android-system-server-2/)
 - [理解 Android 进程创建流程](http://gityuan.com/2016/03/26/app-process-create/) , [Android 应用进程启动流程](https://www.yuque.com/elune/blog/gs02pr)
 - [AMS 启动流程](https://www.yuque.com/elune/blog/qu8hg3)
@@ -139,11 +138,7 @@
 
 ### Glide
 
-- [Android 图片加载框架最全解析（一），Glide 的基本用法](https://blog.csdn.net/guolin_blog/article/details/53759439)
-- [Android 图片加载框架最全解析（二），从源码的角度理解 Glide 的执行流程](https://blog.csdn.net/guolin_blog/article/details/53939176)
-- [Android 图片加载框架最全解析（三），深入探究 Glide 的缓存机制](https://blog.csdn.net/guolin_blog/article/details/54895665)
-- [Android 图片加载框架最全解析（四），玩转 Glide 的回调与监听](https://blog.csdn.net/guolin_blog/article/details/70215985)
-- [Android 图片加载框架最全解析（五），Glide 强大的图片变换功能](https://blog.csdn.net/guolin_blog/article/details/71524668#t4)
+- [郭霖一系列的Glide源码分析,照着看就是了](https://blog.csdn.net/guolin_blog/article/details/53759439)
 
 
 
@@ -183,6 +178,7 @@
 
 ## 网络编程
 
+- [TCP/IP协议栈与数据包封装](http://docs.linuxtone.org/ebooks/C&CPP/c/ch36s01.html)
 - [Android网络编程（一）HTTP协议原理](http://liuwangshu.cn/application/network/1-http.html)
 - [Android 网络编程之--Socket 编程](https://www.jianshu.com/p/fb4dfab4eec1)
 - [微信 Mars 策略分析](https://blog.dreamtobe.cn/mars/)
