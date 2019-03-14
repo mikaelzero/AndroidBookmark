@@ -197,9 +197,23 @@
 
 ## 网络编程
 
-- [TCP/IP协议栈与数据包封装](http://docs.linuxtone.org/ebooks/C&CPP/c/ch36s01.html)
-- [Android网络编程（一）HTTP协议原理](http://liuwangshu.cn/application/network/1-http.html)
-- [Android 网络编程之--Socket 编程](https://www.jianshu.com/p/fb4dfab4eec1)
+> 网络编程部分主要是根据学习IM路线进行一个总结
+
+
+**首先推荐一个网站,[即时通讯网](http://www.52im.net/),网络相关知识大部分都能够找到**
+
+### 基础知识准备
+
+
+- [新手入门一篇就够：从零开发移动端IM(推荐)](http://www.52im.net/thread-464-1-1.html)
+
+
+### 知识储备进阶
+
+- [《理论经典：TCP协议的3次握手与4次挥手过程详解》](http://www.52im.net/thread-258-1-1.html)
+- [《理论联系实际：Wireshark抓包分析TCP 3次握手、4次挥手过程》](http://www.52im.net/thread-275-1-1.html)
+
+
 
 
 ### 微信Mars通信方案
@@ -209,6 +223,13 @@
 - [微信心跳机制](https://blog.dreamtobe.cn/2016/08/16/android_weak_network/)
 - [Android 微信智能心跳方案](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207243549&idx=1&sn=4ebe4beb8123f1b5ab58810ac8bc5994)
 - [TCP可靠性的保证机制总结](https://blog.csdn.net/xuzhangze/article/details/80490362)
+
+
+### IM开源项目推荐
+
+- [mars](https://github.com/Tencent/mars)
+- [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)
+- [wildfirechat](https://github.com/wildfirechat)
 
 ## 代码审查
 
