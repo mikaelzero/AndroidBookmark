@@ -2,34 +2,9 @@
 
 ![](https://github.com/moyokoo/Media/blob/master/learning.png?raw=true)
 
-> 大部分博客笔者在学习过程中收藏于书签中,最近发现书签的内容越来越多,因此编写此文档作为记录,部分是笔者自己的文章,如果写的不好还请指正.
+> :sound: 大部分博客笔者在学习过程中收藏于书签中,最近发现书签的内容越来越多,因此编写此文档作为记录,部分是笔者自己的文章,如果写的不好还请指正.
 > 
 > 如果你有好的文章想要分享,并且符合目录的某个模块,可以提  [issues](https://github.com/moyokoo/AndroidBookmark/issues) :raising_hand:
-
-
-:dancer::dancers::dancer::dancers::dancer::dancers::dancer::dancers:
-
-      
-          ┌─┐       ┌─┐
-       ┌──┘ ┴───────┘ ┴──┐
-       │                 │
-       │       ───       │
-       │  ─┬┘       └┬─  │
-       │                 │
-       │       ─┴─       │
-       │                 │
-       └───┐         ┌───┘
-           │         │
-           │         │
-           │         │
-           │         └──────────────┐
-           │                        │
-           │                        ├─┐
-           │                        ┌─┘    
-           │                        │
-           └─┐  ┐  ┌───────┬──┐  ┌──┘         
-             │ ─┤ ─┤       │ ─┤ ─┤         
-             └──┴──┘       └──┴──┘ 
 
 
 
