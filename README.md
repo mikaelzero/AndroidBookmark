@@ -4,38 +4,38 @@
 
 > :sound: 大部分博客笔者在学习过程中收藏于书签中,最近发现书签的内容越来越多,因此编写此文档作为记录,部分是笔者自己的文章,如果写的不好还请指正.
 > 
-> 如果你有好的文章想要分享,并且符合目录的某个模块,可以提  [issues](https://github.com/moyokoo/AndroidBookmark/issues) :raising_hand:
+> 如果你有好的文章想要分享,并且符合目录的某个模块,可以提  [issues](https://github.com/moyokoo/AndroidBookmark/issues) 
 
 
 
 ## 目录
 
-- :honey_pot: [面试题](#面试题)
-- :apple: [JAVA](#JAVA)
-- :lemon: [View体系](#View体系)
-- :watermelon: [Handler](#Handler)
-- :melon: [事件分发](#事件分发)
-- :pineapple: [Binder](#Binder)
-- :tomato: [Framework解析](#Framework解析)
-- :pear: [Android输入系统](#Android输入系统)
-- :peach: [JNI系列](#JNI系列)
-- :grapes: [Gradle系列](#Gradle系列)
-- :tangerine: [源码解析](#源码解析)
+- [面试题](#面试题)
+- [JAVA](#JAVA)
+- [View体系](#View体系)
+- [Handler](#Handler)
+- [事件分发](#事件分发)
+- [Binder](#Binder)
+- [Framework解析](#Framework解析)
+- [Android输入系统](#Android输入系统)
+- [JNI系列](#JNI系列)
+- [Gradle系列](#Gradle系列)
+- [源码解析](#源码解析)
   - [EventBus](#EventBus)
   - [Retrofit](#Retrofit)
   - [Glide](#Glide)
-- :green_apple: [组件化](#组件化)
-- :cherries: [插件化](#插件化)
-- :strawberry: [性能优化](#性能优化)
-- :banana: [网络编程](#网络编程)
+- [组件化](#组件化)
+- [插件化](#插件化)
+- [性能优化](#性能优化)
+- [网络编程](#网络编程)
     - [知识储备](#知识储备)
     - [微信Mars通信方案](#微信Mars通信方案)
     - [IM开源项目推荐](#IM开源项目推荐)
-- :sweet_potato: [代码审查](#代码审查)
-- :corn: [PDF书籍分享](#PDF书籍分享)
-- :candy: [工具推荐](#工具推荐)
-- :doughnut: [养生](#养生)
-- :chocolate_bar: [找工作黑名单](#找工作黑名单)
+- [代码审查](#代码审查)
+- [PDF书籍分享](#PDF书籍分享)
+- [工具推荐](#工具推荐)
+- [养生](#养生)
+- [找工作黑名单](#找工作黑名单)
 
 
 ## 面试题
