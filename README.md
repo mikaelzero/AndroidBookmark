@@ -221,12 +221,13 @@
 - [新手入门一篇就够：从零开发移动端IM(推荐)](http://www.52im.net/thread-464-1-1.html)
 - [强烈推荐该懒人系列,适合快速吸收知识](http://www.52im.net/thread-1095-1-1.html)
 
-下面是作者在学习过程中,觉得受益较大的一些博文,当然博文都是在 [即时通讯网](http://www.52im.net/) 上的
+下面是作者在学习过程中,觉得受益较大的一些博文,当然博文大部分都是在 [即时通讯网](http://www.52im.net/) 上的
 
 - [快速理解网络通信协议（上篇）](http://www.52im.net/thread-1095-1-1.html)
 - [快速理解网络通信协议](http://www.52im.net/thread-1103-1-1.html)
 - [快速理解TCP协议一篇就够](http://www.52im.net/thread-1107-1-1.html)
 - [现代移动端网络短连接的优化手段总结](http://www.52im.net/thread-1413-1-1.html)
+- [HTTP长连接和短连接](http://www.cnblogs.com/0201zcr/p/4694945.html)
 
 
 ### 微信Mars通信方案
