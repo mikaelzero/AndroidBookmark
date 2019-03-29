@@ -11,6 +11,7 @@
 ## 目录
 
 - [面试题](#面试题)
+- [数据结构与算法](#数据结构与算法)
 - [JAVA](#JAVA)
 - [View体系](#View体系)
 - [Handler](#Handler)
@@ -40,6 +41,7 @@
 - [工具推荐](#工具推荐)
 - [养生](#养生)
 - [找工作黑名单](#找工作黑名单)
+- [一些黑科技](#一些黑科技)
 
 
 ## 面试题
@@ -51,6 +53,12 @@
 - [Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview)
 - [Android 相关的面试题及常见套路](https://github.com/android-exchange/Android-Interview)
 - [一个五年Android开发者百度、阿里、聚美、映客的面试心经](http://gdky005.com/2016/07/08/%E4%B8%80%E4%B8%AA%E4%BA%94%E5%B9%B4Android%E5%BC%80%E5%8F%91%E8%80%85%E7%99%BE%E5%BA%A6%E3%80%81%E9%98%BF%E9%87%8C%E3%80%81%E8%81%9A%E7%BE%8E%E3%80%81%E6%98%A0%E5%AE%A2%E7%9A%84%E9%9D%A2%E8%AF%95%E5%BF%83%E7%BB%8F/)
+
+
+## 数据结构与算法
+
+- [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
+- [数据结构动画版(Android)](https://github.com/toly1994328/DS4Android)
 
 ## JAVA
 
@@ -279,11 +287,18 @@
 - [APK在线反编译](http://www.decompileandroid.com/)
 - [Android-OS在线源码](https://www.androidos.net.cn/)
 - [Android源码查找](http://androidxref.com/7.0.0_r1/)
+- [免费技术相关PDF](https://github.com/EbookFoundation/free-programming-books)
 
 
 ## 养生
 
 - [程序员夏季养生](https://juejin.im/entry/5b356dc9f265da599c561cba)
 - [日常生活中如何养护我们的肾？](https://zhuanlan.zhihu.com/p/36996845)
+- [啥东西](https://github.com/techGay/v9porn)
 
 
+## 一些黑科技
+
+- [Android App监听自身卸载，反馈统计](https://github.com/venshine/AppUninstall)
+- [MPush开源实时消息推送系统](https://github.com/mpusher/mpush)
+- [App内创建一个虚拟空间](https://github.com/asLody/VirtualApp)
