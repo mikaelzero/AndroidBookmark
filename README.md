@@ -189,6 +189,7 @@
 ## 性能优化
 
 - [Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
+- [DIDI出的一款优化辅助工具](https://github.com/didi/DoraemonKit)
 
 ### UI优化
 
