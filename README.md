@@ -135,6 +135,8 @@
 
 ## JNI系列
 
+- [JNI开发系列](https://www.jianshu.com/p/87ce6f565d37)
+- [CMAKE手册](https://www.zybuluo.com/khan-lau/note/254724)
 - [Android JNI 原理分析](http://gityuan.com/2016/05/28/android-jni/)
 - [Android 深入理解 JNI](http://liuwangshu.cn/tags/Android%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3JNI/)
 
