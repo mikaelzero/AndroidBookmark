@@ -296,7 +296,6 @@
 
 - [程序员夏季养生](https://juejin.im/entry/5b356dc9f265da599c561cba)
 - [日常生活中如何养护我们的肾？](https://zhuanlan.zhihu.com/p/36996845)
-- [啥东西](https://github.com/techGay/v9porn)
 
 
 ## 一些黑科技
