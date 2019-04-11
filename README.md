@@ -207,6 +207,7 @@
 
 ### 内存优化
 
+- [Android内存优化杂谈](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&mpshare=1&scene=1&srcid=0501f6p8yRsM5qj6OBKEVY1T&key=16e063fbfd27c52cdf5c92791e0542126da55aeb373dcd13df6aa6c417ec61127af2618384b2201ffa7c918e4bbe6780b4d20d3e2ec989af4e2ec3adfda18308cac9706ac4f970ae73fb86211c44b7c2&ascene=0&uin=ODExMTkxNjU%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.12.3+build&version=12020510&nettype=WIFI&fontScale=100&pass_ticket=AxhG0QxjCX8weF512sU8ttFb%2B7z%2B8JxvShlgh7diOtM%3D)
 - [Android 内存优化总结&实践](https://mp.weixin.qq.com/s/2MsEAR9pQfMr1Sfs7cPdWQ)
 - [Android内存优化——常见内存泄露及优化方案](https://www.jianshu.com/p/ab4a7e353076)
 
