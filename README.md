@@ -254,7 +254,6 @@
 ### IM开源项目推荐
 
 - [mars](https://github.com/Tencent/mars)
-- [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)
 - [wildfirechat](https://github.com/wildfirechat)
 
 ## 代码审查
