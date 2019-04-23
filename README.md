@@ -128,6 +128,7 @@
 - [创建窗口的过程](https://www.yuque.com/elune/blog/iw84e3)
 - [Android 解析 WindowManagerService（一）WMS 的诞生](http://liuwangshu.cn/framework/wms/1-wms-produce.html)
 - [Android包管理机制](http://liuwangshu.cn/tags/Android%E5%8C%85%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6/)
+- [应用程序安装流程](https://maoao530.github.io/2017/01/18/package-install/)
 
 ## Android输入系统
 
