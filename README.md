@@ -13,6 +13,7 @@
 - [面试题](#面试题)
 - [数据结构与算法](#数据结构与算法)
 - [JAVA](#JAVA)
+- [设计模式](#设计模式)
 - [View体系](#View体系)
 - [Handler](#Handler)
 - [事件分发](#事件分发)
@@ -71,6 +72,9 @@
 - [Java并发编程：volatile关键字解析](https://www.cnblogs.com/dolphin0520/p/3920373.html)
 - [java并发编程：线程安全管理类--原子操作类--AtomicBoolean](https://www.cnblogs.com/tonylovett/p/5254630.html)
 
+## 设计模式
+
+- [Android源码设计模式分析项目](https://github.com/simple-android-framework/android_design_patterns_analysis)
 
 ## View体系
 
