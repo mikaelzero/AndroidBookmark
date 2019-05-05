@@ -71,6 +71,7 @@
 - [JAVA多线程之Synchronized关键字--对象锁的特点](https://www.cnblogs.com/hapjin/p/5452663.html)
 - [Java并发编程：volatile关键字解析](https://www.cnblogs.com/dolphin0520/p/3920373.html)
 - [java并发编程：线程安全管理类--原子操作类--AtomicBoolean](https://www.cnblogs.com/tonylovett/p/5254630.html)
+- [Java多线程学习（吐血超详细总结）](https://blog.csdn.net/evankaka/article/details/44153709)
 
 ## 设计模式
 
