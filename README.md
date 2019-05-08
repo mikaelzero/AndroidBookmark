@@ -37,6 +37,7 @@
     - [知识储备](#知识储备)
     - [微信Mars通信方案](#微信Mars通信方案)
     - [IM开源项目推荐](#IM开源项目推荐)
+- [安全防护](#安全防护)
 - [代码审查](#代码审查)
 - [PDF书籍分享](#PDF书籍分享)
 - [工具推荐](#工具推荐)
@@ -261,6 +262,11 @@
 
 - [mars](https://github.com/Tencent/mars)
 - [wildfirechat](https://github.com/wildfirechat)
+
+
+## 安全防护
+
+- [Android安全防护之旅—带你把Apk混淆成中文语言代码](http://www.520monkey.com/archives/992)
 
 ## 代码审查
 
