@@ -267,6 +267,7 @@
 ## 安全防护
 
 - [Android安全防护之旅—带你把Apk混淆成中文语言代码](http://www.520monkey.com/archives/992)
+- [Android安全实践](https://www.yuque.com/elune/blog/rvnayp)
 
 ## 代码审查
 
