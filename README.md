@@ -13,6 +13,7 @@
 - [面试题](#面试题)
 - [数据结构与算法](#数据结构与算法)
 - [JAVA](#JAVA)
+- [Linux](#Linux)
 - [设计模式](#设计模式)
 - [View体系](#View体系)
 - [Handler](#Handler)
@@ -73,6 +74,10 @@
 - [Java并发编程：volatile关键字解析](https://www.cnblogs.com/dolphin0520/p/3920373.html)
 - [java并发编程：线程安全管理类--原子操作类--AtomicBoolean](https://www.cnblogs.com/tonylovett/p/5254630.html)
 - [Java多线程学习（吐血超详细总结）](https://blog.csdn.net/evankaka/article/details/44153709)
+
+## Linux
+
+- [在 linux 下使用 CMake 构建应用程序](https://www.ibm.com/developerworks/cn/linux/l-cn-cmake/index.html)
 
 ## 设计模式
 
