@@ -78,6 +78,7 @@
 ## Linux
 
 - [在 linux 下使用 CMake 构建应用程序](https://www.ibm.com/developerworks/cn/linux/l-cn-cmake/index.html)
+- [CMake 入门实战](https://www.hahack.com/codes/cmake/)
 
 ## 设计模式
 
