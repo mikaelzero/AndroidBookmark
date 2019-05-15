@@ -54,6 +54,10 @@
 - [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
 - [数据结构动画版(Android)](https://github.com/toly1994328/DS4Android)
 
+### 算法
+
+- [Hash算法总结](https://www.jianshu.com/p/bf1d7eee28d0)
+
 ## JAVA
 
 - [java对象结构](https://blog.csdn.net/zqz_zqz/article/details/70246212)
