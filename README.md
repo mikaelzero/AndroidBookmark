@@ -65,6 +65,7 @@
 - [Java并发编程：volatile关键字解析](https://www.cnblogs.com/dolphin0520/p/3920373.html)
 - [java并发编程：线程安全管理类--原子操作类--AtomicBoolean](https://www.cnblogs.com/tonylovett/p/5254630.html)
 - [Java多线程学习（吐血超详细总结）](https://blog.csdn.net/evankaka/article/details/44153709)
+- [synchronized、锁、多线程同步的原理是咋样的](https://www.jianshu.com/p/5dbb07c8d5d5)
 
 ## Linux
 
@@ -200,7 +201,6 @@
 - [Android热修复原理（一）热修复框架对比和代码修复](http://liuwangshu.cn/application/hotfix/1-code-repair.html)
 
 
-
 ## 性能优化
 
 - [Android 性能优化必知必会](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/)
@@ -226,6 +226,7 @@
 ### 监控优化
 
 - [《手Q Android线程死锁监控与自动化分析实践》](https://cloud.tencent.com/developer/article/1064396)
+- [如何监控项目里所有UI线程的操作](http://www.voidcn.com/article/p-cnnhhrmn-hr.html)
 
 ## 网络编程
 
@@ -268,6 +269,7 @@
 
 - [Android安全防护之旅—带你把Apk混淆成中文语言代码](http://www.520monkey.com/archives/992)
 - [Android安全实践](https://www.yuque.com/elune/blog/rvnayp)
+- [Android签名机制之---签名过程详解](https://blog.csdn.net/jiangwei0910410003/article/details/50402000)
 
 ## 代码审查
 
@@ -303,6 +305,7 @@
 - [Android-OS在线源码](https://www.androidos.net.cn/)
 - [Android源码查找](http://androidxref.com/7.0.0_r1/)
 - [免费技术相关PDF](https://github.com/EbookFoundation/free-programming-books)
+- [C++语法大全](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
 
 
 ## 养生
