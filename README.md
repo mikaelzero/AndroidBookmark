@@ -53,6 +53,7 @@
 
 - [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
 - [数据结构动画版(Android)](https://github.com/toly1994328/DS4Android)
+- [十大经典排序算法（动图演示）](https://www.cnblogs.com/onepixel/p/7674659.html)
 
 ### 算法
 
@@ -302,6 +303,7 @@
 ## 工具推荐
 
 - [可视化数据结构和算法学习](https://algorithm-visualizer.org/sorting/comb-sort)
+- [排序算法动画(可操作)](http://sorting.at/)
 - [Tinypng-图片批量压缩](https://tinypng.com/)
 - [Json格式化工具](https://jsoncompare.com/#!/simple/)
 - [markdown数学公式编辑器](https://www.codecogs.com/latex/eqneditor.php)
