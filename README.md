@@ -32,8 +32,6 @@
 - [代码审查](#代码审查)
 - [PDF书籍分享](#PDF书籍分享)
 - [工具推荐](#工具推荐)
-- [养生](#养生)
-- [找工作黑名单](#找工作黑名单)
 - [一些黑科技](#一些黑科技)
 
 
@@ -295,11 +293,6 @@
 - [C Primer Plus 第六版 [带书签].pdf](https://share.weiyun.com/5K1gdv1)
 
 
-## 找工作黑名单
-
-[程序员找工作黑名单，换工作和当技术合伙人需谨慎啊](https://github.com/shengxinjing/programmer-job-blacklist)
-
-
 ## 工具推荐
 
 - [GUI FOR CLASS-查看class文件的可视化工具](https://github.com/zxh0/classpy)
@@ -313,12 +306,6 @@
 - [Android源码查找](http://androidxref.com/7.0.0_r1/)
 - [免费技术相关PDF](https://github.com/EbookFoundation/free-programming-books)
 - [C++语法大全](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
-
-
-## 养生
-
-- [程序员夏季养生](https://juejin.im/entry/5b356dc9f265da599c561cba)
-- [日常生活中如何养护我们的肾？](https://zhuanlan.zhihu.com/p/36996845)
 
 
 ## 一些黑科技
