@@ -2,6 +2,7 @@
 - [面试题](#面试题)
 - [数据结构与算法](#数据结构与算法)
 - [JAVA](#JAVA)
+- [Flutter](#Flutter)
 - [Linux](#Linux)
 - [设计模式](#设计模式)
 - [View体系](#View体系)
@@ -69,6 +70,12 @@
 - [java并发编程：线程安全管理类--原子操作类--AtomicBoolean](https://www.cnblogs.com/tonylovett/p/5254630.html)
 - [Java多线程学习（吐血超详细总结）](https://blog.csdn.net/evankaka/article/details/44153709)
 - [synchronized、锁、多线程同步的原理是咋样的](https://www.jianshu.com/p/5dbb07c8d5d5)
+
+
+## Flutter
+
+- [闲鱼技术的系列文章](https://www.yuque.com/xytech/flutter)
+- [Android混编Flutter之数据通信](https://www.yuque.com/mikaelzero/blog/yit7fk)
 
 ## Linux
 
@@ -157,6 +164,7 @@
 - [全面理解 Gradle - 定义 Task](https://blog.csdn.net/singwhatiwanna/article/details/78898113)
 - [拥抱 Android Studio 之五：Gradle 插件开发](http://blog.bugtags.com/2016/03/28/embrace-android-studio-gradle-plugin/)
 - [Gradle 插件开发指南](https://www.jianshu.com/p/3191c3955194)
+- [本人总结的ASM系列学习笔记](https://www.yuque.com/mikaelzero/cg3abf)
 
 ## 源码解析
 
