@@ -158,19 +158,14 @@
 
 ## Gradle系列
 
-- [Gradle 核心思想](http://liuwangshu.cn/tags/Gradle%E6%A0%B8%E5%BF%83%E6%80%9D%E6%83%B3/)
-- [Gradle 从入门到实战 - Groovy 基础](https://blog.csdn.net/singwhatiwanna/article/details/76084580)
-- [全面理解 Gradle - 执行时序](https://blog.csdn.net/singwhatiwanna/article/details/78797506)
-- [全面理解 Gradle - 定义 Task](https://blog.csdn.net/singwhatiwanna/article/details/78898113)
-- [拥抱 Android Studio 之五：Gradle 插件开发](http://blog.bugtags.com/2016/03/28/embrace-android-studio-gradle-plugin/)
-- [Gradle 插件开发指南](https://www.jianshu.com/p/3191c3955194)
-- [本人总结的ASM系列学习笔记](https://www.yuque.com/mikaelzero/cg3abf)
+- [先了解关于APK的方方面面](https://www.yuque.com/mikaelzero/cg3abf/ix0t6f)
+- [手动编译一个APK，了解打包出apk的一个编译过程](https://www.yuque.com/mikaelzero/cg3abf/atqrkn)
+- [了解gradle的使用，以及gradle的基本原理，agp的基本原理，agp的重要task](https://github.com/5A59/android-training)
+- [笔者总结的ASM系列学习笔记](https://www.yuque.com/mikaelzero/cg3abf)
 
 ## 源码解析
 
 ### EventBus
-
-- [EventBus 原理解析](https://juejin.im/post/5ae2e6dcf265da0b9d77f28e#heading-5)
 - [EventBus 3.0进阶：源码及其设计模式 完全解析](https://www.jianshu.com/p/bda4ed3017ba)
 
 ### Retrofit
@@ -189,7 +184,8 @@
 
 - [Android组件化开发实践和案例分享](https://juejin.im/post/5c46e6fb6fb9a049a5713bcc)
 - [Android 组件化最佳实践](https://juejin.im/post/5b5f17976fb9a04fa775658d)
-- [回归初心：极简 Android 组件化方案 — AppJoint](https://juejin.im/post/5bb9c0d55188255c7566e1e2)
+- [写一个简单的Router](https://www.yuque.com/mikaelzero/cg3abf/yudshn)
+- [WMRouter原理剖析](https://www.yuque.com/mikaelzero/cg3abf/lutcly)
 
 ## 插件化
 
