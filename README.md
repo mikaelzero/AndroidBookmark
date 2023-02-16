@@ -42,6 +42,8 @@
 - [ANDROID 中的 EGL 扩展](http://tangzm.com/blog/?p=167)
 - [从 APK 安装过程来认识 PMS](https://juejin.cn/post/7117810622133174309#heading-6)
 - [Android 移植系列文章](https://blog.csdn.net/mr_raptor/category_799879.html)
+- [Android Adb 架构及实现分析](https://pkiller.com/android/android-adb%E6%9E%B6%E6%9E%84%E5%8F%8A%E5%AE%9E%E7%8E%B0%E5%88%86%E6%9E%90/)
+- [基于 HardwareBuffer 实现 Android 多进程渲染](https://robot9.me/hardwarebuffer-multi-process-rendering/)
 
 ## SurfaceFlinger
 
@@ -57,3 +59,4 @@
 ## Flutter
 
 - [瀑布流](https://pub.dev/packages/flutter_staggered_animations)
+- [《Flutter 实战·第二版》](https://book.flutterchina.club/)
